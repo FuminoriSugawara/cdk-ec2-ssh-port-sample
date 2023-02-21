@@ -16,6 +16,7 @@ git clone https://github.com/FuminoriSugawara/aws-cdk-ec2-ssh-port-sample.git
 ````
 必要なNode.jsパッケージをインストールします。
 ```shell
+cd cdk
 npm install
 ```
 
